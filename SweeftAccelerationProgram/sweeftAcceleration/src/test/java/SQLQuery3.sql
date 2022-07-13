@@ -1,0 +1,1 @@
+select * from Teacher where FirstName = 'Giorgi'
